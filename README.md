@@ -11,4 +11,4 @@ We design 3 responsive screens first one is a welcome screen the user opens your
 ### Auth UI
 
 ![Preview UI](/preview.gif)
-![App UI](/UI1.png)
+![App UI](/UI.png)
